@@ -2,7 +2,7 @@
 Classify people into income brackets of less or more than $50k
 
 # Binary classification with the following features:
-1Age
+1.Age
 2.Workclass
 3.Education
 4.Education Number
