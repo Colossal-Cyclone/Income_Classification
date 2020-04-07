@@ -28,3 +28,7 @@ The modified census dataset consists of approximately 32,000 data points, with e
 **Target Variable**
 - `income`: Income Class (<=50K, >50K)
 
+**Model**
+DNNClassifier with 6 hidden layers which produces an accuracy 87.6% accuracy
+
+
